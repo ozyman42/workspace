@@ -4,3 +4,6 @@
 [submodule "AlexLeungOnline"]
 	path = AlexLeungOnline
 	url = https://github.com/ozyman42/AlexLeungOnline
+[submodule "bzlsubmod"]
+	path = bzlsubmod
+	url = https://github.com/ozyman42/bzlsubmod
