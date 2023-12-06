@@ -1,0 +1,6 @@
+[submodule "resume"]
+	path = resume
+	url = https://github.com/ozyman42/resume
+[submodule "AlexLeungOnline"]
+	path = AlexLeungOnline
+	url = https://github.com/ozyman42/AlexLeungOnline
