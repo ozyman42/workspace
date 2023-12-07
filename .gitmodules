@@ -7,3 +7,6 @@
 [submodule "bzlsubmod"]
 	path = bzlsubmod
 	url = https://github.com/ozyman42/bzlsubmod
+[submodule "ozy-app"]
+	path = ozy-app
+	url = https://github.com/ozyman42/ozy-app
