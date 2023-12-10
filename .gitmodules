@@ -10,3 +10,6 @@
 [submodule "ozy-app"]
 	path = ozy-app
 	url = https://github.com/ozyman42/ozy-app
+[submodule "init-codespace"]
+	path = init-codespace
+	url = https://github.com/ozyman42/init-codespace
