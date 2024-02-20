@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "ozy-app/fwd-proxy/Cargo.toml"
+    ]
+}

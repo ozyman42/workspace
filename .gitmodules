@@ -13,3 +13,6 @@
 [submodule "init-codespace"]
 	path = init-codespace
 	url = https://github.com/ozyman42/init-codespace
+[submodule "blog"]
+	path = blog
+	url = https://github.com/depth-co/blog
