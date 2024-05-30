@@ -7,3 +7,6 @@ is brought in, it's used as the dependency)
 
 Until the bzlsubmod is done, use the following command to add new repos
 - git submodule add https://github.com/<my repo>
+
+And to remove a submodule
+- ./rm_submodule <my repo>

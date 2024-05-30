@@ -8,3 +8,4 @@ export PATH="${PATH}:${USER_HOME}/.android/cmdline-tools/latest/bin"
 export PATH="${PATH}:${USER_HOME}/.android/platform-tools"
 export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
 export HASURA_GRAPHQL_ADMIN_SECRET=$OZY_HASURA_GRAPHQL_ADMIN_SECRET
+export RECAPTCHA_ID=$OZY_RECAPTCHA_ID

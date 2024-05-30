@@ -1,15 +1,3 @@
-[submodule "resume"]
-	path = resume
-	url = https://github.com/ozyman42/resume
-[submodule "AlexLeungOnline"]
-	path = AlexLeungOnline
-	url = https://github.com/ozyman42/AlexLeungOnline
-[submodule "bzlsubmod"]
-	path = bzlsubmod
-	url = https://github.com/ozyman42/bzlsubmod
-[submodule "init-codespace"]
-	path = init-codespace
-	url = https://github.com/ozyman42/init-codespace
-[submodule "blog"]
-	path = blog
-	url = https://github.com/depth-co/blog
+[submodule "ozy-app"]
+	path = ozy-app
+	url = https://github.com/ozyman42/ozy-app
