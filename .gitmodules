@@ -1,0 +1,6 @@
+[submodule "packages/@ozyman42/agenticloud-connect"]
+	path = packages/@ozyman42/agenticloud-connect
+	url = https://github.com/ozyman42/agenticloud-connect
+[submodule "packages/@ozyman42/confluence-review-loop"]
+	path = packages/@ozyman42/confluence-review-loop
+	url = https://github.com/ozyman42/confluence-review-loop
